@@ -1,0 +1,154 @@
+{
+    "appKeys": {
+        "blink": 8,
+        "config_location": 10,
+        "config_seconds": 12,
+        "config_shake": 13,
+        "config_vibrate": 11,
+        "content": 1,
+        "font": 4,
+        "light": 7,
+        "msg_type": 0,
+        "refresh": 2,
+        "scroll": 6,
+        "theme": 5,
+        "updown": 9,
+        "url": 14,
+        "vibrate": 3
+    },
+    "capabilities": [
+        "location",
+        "configurable"
+    ],
+    "companyName": "Debashis",
+    "longName": "Hourly Quotes",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/app_icon.png",
+                "menuIcon": true,
+                "name": "ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/digit_1pm.png",
+                "name": "DIGIT_1PM",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_1am.png",
+                "name": "DIGIT_1AM",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_0pm.png",
+                "name": "DIGIT_0PM",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_0am.png",
+                "name": "DIGIT_0AM",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_dots_space.png",
+                "name": "DIGIT_DOTS_SPACE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_dots.png",
+                "name": "DIGIT_DOTS",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_9.png",
+                "name": "DIGIT_9",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_8.png",
+                "name": "DIGIT_8",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_7.png",
+                "name": "DIGIT_7",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_6.png",
+                "name": "DIGIT_6",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_5.png",
+                "name": "DIGIT_5",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_4.png",
+                "name": "DIGIT_4",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_3.png",
+                "name": "DIGIT_3",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_2.png",
+                "name": "DIGIT_2",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_1.png",
+                "name": "DIGIT_1",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/digit_0.png",
+                "name": "DIGIT_0",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/empty.png",
+                "name": "EMPTY",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/update_error.png",
+                "name": "UPDATE_ERROR",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/update.png",
+                "name": "UPDATE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/no_phone.png",
+                "name": "NO_PHONE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/wbatt_charge.png",
+                "name": "WBATT_CHARGE",
+                "type": "png-trans"
+            },
+            {
+                "file": "images/wbatt.png",
+                "name": "WBATT",
+                "type": "png-trans"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "HourlyQuotes",
+    "uuid": "9be6e663-b542-49f3-82d9-9bc174ddc63a",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
